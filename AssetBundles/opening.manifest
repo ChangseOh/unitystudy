@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3096883931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa4fb09208218812450dd3dde8f88485
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/op_6.jpg
+- Assets/Resources/op_1.jpg
+- Assets/Resources/op_3.jpg
+- Assets/Resources/op_5.jpg
+- Assets/Resources/op_4.jpg
+- Assets/Resources/op_7.jpg
+- Assets/Resources/op_2.jpg
+Dependencies: []
